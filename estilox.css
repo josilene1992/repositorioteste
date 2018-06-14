@@ -1,0 +1,52 @@
+#divsite{width:1000px; height:700px;position:absolute;
+top:0px;left:100px;
+background-color:black;}
+
+
+
+#divcabecalho{
+background-color: red;position:absolute;
+top:0px;left:100px;color: white;
+font:16pt Arial;width: 1000px;height:100px;}
+
+
+#divconteudo{
+background-color: white;font:12pt Arial;
+font-weight:bolder;color:black;border-style:solid;border-color:red;
+border-width:5px;
+position:absolute;top:100px;left:100px;
+width: 990px; height:500px;}
+
+
+#divMostrarTU{
+	position:absolute; top:250px;left:5px; width:980px; height:200px;
+	overflow: auto;
+	
+}
+
+
+
+
+
+#formcad
+{border-style:solid;border-color:green;
+border-width:2px;}
+#tabela1 {
+	width:100%;
+	border-width: 2px;
+    border-style: solid;
+    border-color: green;
+}
+#coluna1 {
+	width:30%
+	border-width: 1px;
+    border-style: solid;
+    border-color: green;
+}
+
+#subtexto1{
+	font-size:26px;
+	text-align:center;
+}
+
+
