@@ -3,6 +3,7 @@ require_once 'usuario.php';
 require_once 'conexaoaula.php';
 require_once 'index.php';
 
+//teste
 class bancoUsuario{	
 	
 	public function cadastrarUsuario(){
