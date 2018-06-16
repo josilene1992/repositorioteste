@@ -6,7 +6,7 @@
   <title>PHP </title>
   <script language="JavaScript" src="funcaojs.js"></script>
 </head>
- 
+ //teste escrevendo na conta B no repositório A
 <body>
 <div id="site">
 <div id="divcabecalho">
