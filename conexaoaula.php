@@ -16,7 +16,7 @@ if ($this->conexao){
 		return mysqli_query($this->conexao,$query);
 	}
 	
-	
+	//conexao por mysqli
 	
 	
 	public function desconectar(){
